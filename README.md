@@ -1,8 +1,8 @@
 RPC Stage Variable Predictor
-A machine learning project focused on predicting the stage of a Rocket Propellant Component (RPC) using sensor data. This repository contains the complete pipeline for data preprocessing, model training, evaluation, and inference, demonstrating a practical application of ML in industrial and aerospace engineering.
+A machine learning project focused on predicting the stage of a RPC using sensor data. This repository contains the complete pipeline for data preprocessing, model training, evaluation, and inference, demonstrating a practical application of ML in industrial and mechanical engineering.
 
 📌 Project Overview
-In industrial processes like rocket propellant manufacturing, components go through various stages (e.g., mixing, casting, curing). Accurately identifying the current stage is critical for process control and quality assurance.
+In industrial processes axial air compressors are used so monitor changes and accurately identifying the current stage is critical for process control and quality assurance.
 
 This project develops a classifier to predict the operational stage of an RPC based on multivariate time-series sensor data (such as pressure, temperature, flow rate, etc.). The solution includes data cleaning, feature engineering, model selection, and hyperparameter tuning to achieve high predictive accuracy.
 
